@@ -1,4 +1,4 @@
-content://com.kiwibrowser.browser.FileProvider/images/screenshot/16766125706011937750079.gif![image](https://user-images.githubusercontent.com/124819729/219559252-90b6bdea-4e02-418d-bede-20c7579637d4.png)
+
 
 
 
